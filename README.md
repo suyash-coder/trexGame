@@ -1,2 +1,2 @@
 # trexGame
-Chrome's trexGame created using p5.play......
+Chrome's trexGame created using p5.play
